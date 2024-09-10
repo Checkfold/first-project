@@ -1,7 +1,10 @@
 .body {
+    background-color: aqua;
+    margin: 0 auto;
     box-sizing: border-box;
 }
 
 .main_title {
     color: blueviolet;
+    text-align: center;
 }

@@ -1,0 +1,29 @@
+[33mcommit c4fa2c02a3ed81d99739f2d219fab6ec7449e320[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Checkfold <Fapturka889@yandex.ru>
+Date:   Tue Sep 10 20:09:31 2024 +0300
+
+    добавил ещё пару стилей, покрасил бекграунд body и заголовок сделал по центру
+
+[33mcommit e1c93edb06328cff7381f7b779f7dbb5b6bcd90a[m
+Author: Checkfold <Fapturka889@yandex.ru>
+Date:   Tue Sep 10 19:58:47 2024 +0300
+
+    Добавил стили в body
+
+[33mcommit 903643f4d705ce660e8335250aad146a369a546c[m
+Author: Checkfold <Fapturka889@yandex.ru>
+Date:   Tue Sep 10 19:54:24 2024 +0300
+
+    Добавил стили в заголовок
+
+[33mcommit 48c8896943aa5bc7929e691b5f98342c2ef8a56d[m
+Author: Checkfold <Fapturka889@yandex.ru>
+Date:   Tue Sep 10 19:53:13 2024 +0300
+
+    Сделал разметку HTML с заголовком
+
+[33mcommit 2455d6203f658edad9c5a47f059d8bcad967ecf4[m
+Author: Checkfold <Fapturka889@yandex.ru>
+Date:   Tue Sep 10 19:46:36 2024 +0300
+
+    my first commit
